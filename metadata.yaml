@@ -1,0 +1,29 @@
+_repo: Sketches-in-Crude-oil-Some-accidents-and-incidents-of-the-petroleum-development-in-all-parts-__53672
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McLaurin, John J. (John James)
+    aliases:
+    - McLaurin, J. J. (John James)
+    - McLaurin, John James
+    birthdate: 1841
+    deathdate: 1923
+    gutenberg_agent_id: '47484'
+    url: http://www.gutenberg.org/2009/agents/47484
+description: ''
+gutenberg_issued: '2016-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Petroleum industry and trade -- North America -- History'
+- !lcc 'TN'
+- !lcsh 'Petroleum -- History'
+- GITenberg
+title: "Sketches in Crude-oil\r\nSome accidents and incidents of the petroleum development\
+  \ in all parts of the globe"
+url: http://www.gutenberg.org/ebooks/53672
